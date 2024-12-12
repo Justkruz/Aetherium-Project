@@ -1,0 +1,2 @@
+# aetherium_project/experiments/results/experiment_1_results.txt
+# Experiment 1 results will be logged here
