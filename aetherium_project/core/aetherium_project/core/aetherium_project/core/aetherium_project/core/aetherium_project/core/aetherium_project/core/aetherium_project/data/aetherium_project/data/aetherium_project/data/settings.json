@@ -1,0 +1,5 @@
+{
+    "simulation_speed": 10,
+    "learning_rate": 0.1,
+    "environment_size": 10
+}
